@@ -1,29 +1,26 @@
 # DAP-Trainee-Story
-# 📈🧪 Data Analytics Program 🧠📊 : Story of *___trainee_name__*
-Here is the place to tell the story of your experience of the Data Analytics Program.
-
-**Instruction**: Fork the repo, name it `DAP-Trainee-Story_<your-username>`, fill and embellish this Readme file. *Remove this instruction when you are done.*
+# 📈🧪 Data Analytics Program 🧠📊 : Story of Kwame Ofosu-Dapaah Asenso-Okyere
 
 ## Let me introduce Myself
-`Please provide a brief professional history before embarking on your data analytics journey (3 - 4 lines)`
+After completing my tertiary education, I embarked on a career in business development for an energy efficiency company. In this role, I specialized in identifying prospective clients and engaging them by relying on the analysis conducted by another team. It was a very interesting experience as all the engagements were unique and brought about varying results.
 
 ## How would I describe my experience in the data analytics program ? 
-`Please add text here...`
+It's been a fulfilling journey. I always found Data Analytics interesting and I finally got the opportunity to follow a well-thought out plan towards achieving that. Overall I would say it has been a rewarding experience.
 
 ## How would I say the Career Accelerator phase has introduced me to when it comes to data analytics ? 
-`Please add text here...`
+The Career Accelerator phase introduced me to the expectations of the real-world in Data Analytics. I got a sense of the pressure to produce deliverables for team members who were depending on it and also waiting for deliverables from team members. Again, I learned about the need to tell coherent data stories through the results of my analysis and also offer value to the clients(in this case tutors).
 
 ## What enticed me to join the Data Analytics Program?
-`Please add text here...`
+The clear path towards attaining the credentials of a Data Analyst.
 
 ## What would I say my progress in tech has been since joining the program ? 
-`Please add text here...`
+My progress has been very quick. The needs of program were such that I had to quickly pick up concepts and understand what certain terms were and what they were in practical terms as well.
 
-## What are my plans for the future ?
-`Please add text here...`
+## What are my plans for the future 
+I would like to gain more experience in data analytics especially in areas such as data transformation. Going throught the program made me realize that I have an interest in understanding what the client's needs are and engineering the already existing data  to create features that enable me to answer the questions. I have also developed an interest in dashboards and I look forward to creating dashboards with live data.
 
 ## What is my dream company or role ?
-`Please add text here...`
+Business analyst
 
 ## 1st Phase Projects' Summary Table
 `Please add text here...`
