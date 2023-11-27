@@ -84,11 +84,11 @@ Business analyst
 <tr>
 <td>2</td>
 <td>Corporacion Favorita Grocery Chain Sales Analysis and Forecasting </td>
-<td></td>
-<td> <a href="https://www.linkedin.com/pulse/time-series-regression-forecasting-sales-analysis-kwame-asenso-okyere/"> Article </a><td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> A regression analysis of a grocery store chain</td>
+<td> <a href="https://www.linkedin.com/pulse/time-series-regression-forecasting-sales-analysis-kwame-asenso-okyere/">Sales Forecasting Article </a><td>
+<td> N/A </td>
+<td> <a href="https://github.com/odee0405/Grocery-store-forecast">Sales Forecasting App Repository </a></td>
+<td> <a href="https://github.com/odee0405/Grocery-store-forecast/blob/main/Notebooks/Time%20Series%20Project101.ipynb">Sales Forecasting Dev Repository </a></td>
 </tr>
 
 <tr>
