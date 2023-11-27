@@ -35,16 +35,16 @@ Business analyst
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add any additional info here...</td>
+<td>Parking tickets leaderboard</td>
+<td>An analysis of parking tickets issued in NYC</td>
+<td>An analysis to see the agencies that issued tickets the most out of the first 1 million records of the NYC Parking Violations Data</td>
 </tr>
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td>Shifting Immages</td>
+<td> Shifting images of numbers from the mnist dataset</td>
+<td> This is a program to shift the position of images from the MNIST data set</td>
 </tr>
 
 <tr>
