@@ -148,51 +148,52 @@ Business analyst
 ## AZUBI Interview 
 1. What advice will you give someone considering joining tech? 
 
-    `Reply here please.`
+    Have a problem-solving mindset and don't worry, all the information you'll ever need is online.
 
 1. What did you think about the quality of teaching and level of assistance? 
 
-    `Reply here please.`
+    It was very good. They knew when to be hands-on and hands-off.
 
 1. What did you like most about the program? 
 
-    `Reply here please.`
+    The simulation of real-world work situations.
 
 1. Are the lectures engaging and interesting? 
 
-    `Reply here please.`
+    Yes
 
 1. What happens if you miss a lecture? 
 
-    `Reply here please.`
+    You lose marks 
 
 1. What do you think of the flexibility of the program? 
 
-    `Reply here please.`
+    It was flexible enough to plan around 
 
 1. Do the projects worked on help you test your ability / skills? 
 
-    `Reply here please.`
+    Yes 
 
 1. What will you change about the program if you had a chance? 
 
-    `Reply here please.`
+    Tracking the output of individuals especially during the Career Accelerator Phase
 
 1. What do you think about the fees structure? 
 
-    `Reply here please.`
+    Very fair
 
 1. Would you say Azubi Has Changed your life ? 
 
-    `Reply here please.`
+    Yes it has changed my way of processing information and the way I approach projects
 
 1. Do you think you have gained enough skills through our programme to land your dream job ? 
 
-    `Reply here please.`
+    Yes
 
 
 ## My Contacts
-`Please add your contacts here...`
+Email: ofosudapaah@gmail.com
+Mobile: +233(0)552531057
 
 **NB:**
 Feel free to add more sections if you want to share some thoughts or personal works, etc.
