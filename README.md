@@ -195,5 +195,4 @@ Business analyst
 Email: ofosudapaah@gmail.com
 Mobile: +233(0)552531057
 
-**NB:**
-Feel free to add more sections if you want to share some thoughts or personal works, etc.
+
