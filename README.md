@@ -73,12 +73,12 @@ Business analyst
 
 <tr>
 <td>1</td>
-<td> </td>
-<td>Add the project description here...</td>
-<td>Add the article link here...</td>
-<td>Add the deployed app link here...</td>
-<td>Add the app repository link here...</td>
-<td>Add the development repository link here...</td>
+<td>India Startup Funding </td>
+<td>An analysis of funding for startups in India </td>
+<td>[India Startup Funding Analysis Article](https://www.linkedin.com/pulse/india-startup-funding-analysis-kwame-asenso-okyere/?trackingId=3mn9RrhyQfKN1Y3UEKqpxg%3D%3D)</td>
+<td>N/A</td>
+<td>[India Startup Funding Analysis Repository](https://github.com/odee0405/India-Startup-Funding-Analysis)</td>
+<td>[India Startup Funding Analysis Dev Repo](https://github.com/odee0405/India-Startup-Funding-Analysis/blob/main/Analysis/Startup%20Data%20Cleaned%20and%20Analysis.ipynb)</td>
 </tr>
 
 <tr>
