@@ -84,8 +84,8 @@ Business analyst
 <tr>
 <td>2</td>
 <td>Corporacion Favorita Grocery Chain Sales Analysis and Forecasting </td>
-<td>https://github.com/odee0405/Grocery-store-forecast </td>
-<td> </td>
+<td></td>
+<td> <a href="https://www.linkedin.com/pulse/time-series-regression-forecasting-sales-analysis-kwame-asenso-okyere/"> Article </a><td>
 <td> </td>
 <td> </td>
 <td> </td>
