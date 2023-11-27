@@ -77,8 +77,8 @@ Business analyst
 <td>An analysis of funding for startups in India </td>
 <td> <a href="https://www.linkedin.com/pulse/india-startup-funding-analysis-kwame-asenso-okyere/?trackingId=3mn9RrhyQfKN1Y3UEKqpxg%3D%3D"> India Startup Article</a> </td>
 <td>N/A</td>
-<td>https://github.com/odee0405/India-Startup-Funding-Analysis</td>
-<td>https://github.com/odee0405/India-Startup-Funding-Analysis/blob/main/Analysis/Startup%20Data%20Cleaned%20and%20Analysis.ipynb</td>
+<td><a href="https://github.com/odee0405/India-Startup-Funding-Analysis"> App Repository </a></td>
+<td><a href="https://github.com/odee0405/India-Startup-Funding-Analysis/blob/main/Analysis/Startup%20Data%20Cleaned%20and%20Analysis.ipynb"> Dev Repository</a></td>
 </tr>
 
 <tr>
