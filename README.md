@@ -75,7 +75,7 @@ Business analyst
 <td>1</td>
 <td>India Startup Funding </td>
 <td>An analysis of funding for startups in India </td>
-<td>https://www.linkedin.com/pulse/india-startup-funding-analysis-kwame-asenso-okyere/?trackingId=3mn9RrhyQfKN1Y3UEKqpxg%3D%3D</td>
+<td>[Article](https://www.linkedin.com/pulse/india-startup-funding-analysis-kwame-asenso-okyere/?trackingId=3mn9RrhyQfKN1Y3UEKqpxg%3D%3D)</td>
 <td>N/A</td>
 <td>https://github.com/odee0405/India-Startup-Funding-Analysis</td>
 <td>https://github.com/odee0405/India-Startup-Funding-Analysis/blob/main/Analysis/Startup%20Data%20Cleaned%20and%20Analysis.ipynb</td>
@@ -83,8 +83,8 @@ Business analyst
 
 <tr>
 <td>2</td>
-<td> </td>
-<td> </td>
+<td>Corporacion Favorita Grocery Chain Sales Analysis and Forecasting </td>
+<td>https://github.com/odee0405/Grocery-store-forecast </td>
 <td> </td>
 <td> </td>
 <td> </td>
