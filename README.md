@@ -49,9 +49,9 @@ Business analyst
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Sales Analysis</td>
+<td> A brief sales analysis</td>
+<td> Created a dataframe from a list of dictionaries and did some analysis</td>
 </tr>
 
 </tbody>
