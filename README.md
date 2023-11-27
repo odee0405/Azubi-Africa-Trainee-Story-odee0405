@@ -94,12 +94,12 @@ Business analyst
 
 <tr>
 <td>3</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> Churn Analysis </td>
+<td> Churn analysis for a telecommunications company</td>
+<td> <a href="https://www.linkedin.com/pulse/ml-classification-project-teleco-customer-churn-kwame-asenso-okyere/?trackingId=%2FsUhtVm8R6Wa%2Fx8bWq5Z9A%3D%3D"> Churn Analysis Article </a></td>
+<td> N/A </td>
+<td> <a href="https://github.com/odee0405/Churn-Analysis"> Churn Analysis App Repository</a> </td>
+<td> <a href="https://github.com/odee0405/Churn-Analysis/blob/main/Telco%20Churn%20Analysis%20and%20Modelling%20.ipynb"> Churn Analysis Dev Repository</a> </td>
 </tr>
 
 <tr>
